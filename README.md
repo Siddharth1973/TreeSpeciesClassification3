@@ -18,7 +18,6 @@ This project uses machine learning to classify tree species based on their image
 
 - Algorithm: Random Forest / SVM / CNN (based on your actual model)
 - Trained on: Tree leaf or bark image dataset
-- Accuracy: XX% on test data
 - Input: Image files (JPG/PNG)
 - Output: Predicted tree species
 
